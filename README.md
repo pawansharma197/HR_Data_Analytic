@@ -1,1 +1,3 @@
-# HR_Data_Analytics
+# HR-Analytics
+## References
+## https://rpubs.com/rhuebner/HRCodebook-13
